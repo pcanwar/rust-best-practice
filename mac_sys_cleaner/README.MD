@@ -5,8 +5,10 @@ Interact with your system's file directories.
 ### Features
 The utility offers the following:
 
-help: show all available commands.
-quit: exits the app.
-clean: cleans specified directories (e.g: logs, caches).
+* help: show all available commands.
+
+* quit: exits the app.
+
+* clean: cleans specified directories (e.g: logs, caches).
 
 
