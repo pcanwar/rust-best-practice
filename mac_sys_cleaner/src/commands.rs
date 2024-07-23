@@ -45,7 +45,10 @@ impl Commands {
         
         let input = _args.join(" ");
         println!("{} ", input);
+        // a list of dirs 
         let dirs = vec!["/Library/Logs", "/var/log"];//, "~/Library/Caches" ];
+
+        
         for dir_str in &dirs  {
             let dir = Path::new(dir_str);
             if dir.exists() && dir.is_dir() {
