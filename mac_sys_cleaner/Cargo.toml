@@ -1,0 +1,9 @@
+[package]
+name = "mac_sys_cleaner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10.2"
+walkdir = "2.3.2"
+shellexpand = "3.1.0"

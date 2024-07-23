@@ -1,0 +1,1 @@
+/Users/anwar/Documents/rust20/ex/mac_sys_cleaner/target/debug/mac_sys_cleaner: /Users/anwar/Documents/rust20/ex/mac_sys_cleaner/src/commands.rs /Users/anwar/Documents/rust20/ex/mac_sys_cleaner/src/main.rs
